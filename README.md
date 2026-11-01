@@ -16,9 +16,9 @@
 
 I'm a data engineer and analyst in the making, currently pursuing an MCA at DY Patil Vidyapeeth, Pune. I enjoy building the whole pipeline: warehouse design, transformation and testing, and the dashboards that answer real questions.
 
-- 🔭 Currently: Data Analytics Intern at **Nexvia Technologies**
-- 🌱 Learning: dbt, cloud data platforms, and attribution modelling
-- 📫 Reach me at **pratikdpatil3009@gmail.com**
+- Currently: Data Analytics Intern at **Nexvia Technologies**
+- Learning: dbt, cloud data platforms, and attribution modelling
+- Reach me at **pratikdpatil3009@gmail.com**
 
 ---
 
@@ -80,11 +80,11 @@ Web-based e-commerce platform with authentication, cart and order placement.
 
 | Certification | Issuer | Date |
 |---|---|---|
-| 🏅 Google Cloud Arcade Facilitator | Google Cloud | Jul 2026 |
-| 📊 Google Analytics Certification | Google | Oct 2026 |
-| 🧪 Data Engineer Certification Program | Analyx Academy | Mar 2026 |
-| 🧠 IBM Data Science | IBM | Sep 2025 |
-| ☁️ AWS Cloud Practitioner Essentials | AWS | May 2025 |
+| Google Cloud Arcade Facilitator | Google Cloud | Jul 2026 |
+| Google Analytics Certification | Google | Oct 2026 |
+| Data Engineer Certification Program | Analyx Academy | Mar 2026 |
+| IBM Data Science | IBM | Sep 2025 |
+| AWS Cloud Practitioner Essentials | AWS | May 2025 |
 
 ---
 
