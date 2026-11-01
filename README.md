@@ -66,7 +66,7 @@ Zomato-style pipeline with Python, Apache Airflow, Azure Data Factory, Databrick
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-### 🛍️ Online Shopping Cart System
+### 🛍️ Shopsphere
 Web-based e-commerce platform with authentication, cart and order placement.
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
