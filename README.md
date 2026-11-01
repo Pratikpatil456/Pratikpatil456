@@ -67,7 +67,3 @@ A web-based e-commerce platform (HTML, CSS, JavaScript, PHP/Python, MySQL) with 
 ## Languages
 
 English · Hindi · Marathi
-
-## GitHub stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Pratikpatil456&show_icons=true&theme=tokyonight&hide_border=true)
