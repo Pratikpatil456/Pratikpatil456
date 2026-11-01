@@ -24,7 +24,7 @@ I'm a data engineer and analyst in the making, currently pursuing an MCA at DY P
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=40&text=Experience&fontSize=20&fontColor=ffffff&fontAlignY=60" width="100%" alt="Experience"/>
 
-- 💼 **Data Engineer Internship in Mumbai**, Yuva Intern (Data Engineer Internships track). 18 Oct 2026 - 13 Dec 2026, 8 weeks, in progress.
+- 💼 **Data Engineer Internship in Mumbai**, Yuva Intern. 18 Oct 2026 - 13 Dec 2026, in progress.
 - 💼 **Data Analytics Intern**, Nexvia Technologies. Oct 2026 - Present.
 - 💼 **Data Science & Machine Learning Intern**, YBI Foundation. Sep 2023 - Nov 2023.
 
